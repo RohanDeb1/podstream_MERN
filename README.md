@@ -23,6 +23,7 @@ The application is built using the following technologies:
 - React Js
 - Node Js
 - Mongo Db
+
 - Google Auth
 - Firebase
 
@@ -30,9 +31,9 @@ The application is built using the following technologies:
 
 ![image](https://user-images.githubusercontent.com/100614635/233979351-604732a6-eb97-4124-a4b9-9a07a22f7f9d.png)
 
-![image](https://github.com/RohanDeb1/podstream_MERN/assets/79748262/2be16f3d-879d-45cf-8269-7a08a5425cc7)
+![Screenshot 2023-08-19 114946](https://github.com/RohanDeb1/podstream_MERN/assets/79748262/df4ddad8-13c3-428a-aa5b-3633503ca1fe)
 
-![image](https://github.com/RohanDeb1/podstream_MERN/assets/79748262/266385a9-15ff-48bd-895c-aa9888632934)
+![Screenshot 2023-08-19 1](https://github.com/RohanDeb1/podstream_MERN/assets/79748262/07704f73-d3be-4135-9104-e05b11c3cdf5)
 
 ![image](https://user-images.githubusercontent.com/100614635/233981364-5124943f-9016-43a5-aa42-3eee4b231430.png)
 
